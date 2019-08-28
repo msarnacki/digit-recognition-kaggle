@@ -6,4 +6,4 @@ This is two part project:
 
 -second part is me trying some new things with images in python. I ended up creating function that takes path to photo and model as arguments and returns digit that is on photo. It works pretty good, especially when photo is bright, there is good contrast between digit and background. Photo should preferably have similiar resolution to being square but work also with different types of resolution.
   
-  I made also a GUI program with Python and Tkinter that uses this model and function. Here is link to repository:
+  I made also a GUI program with Python and Tkinter that uses this model and function. Here is link to repository: https://github.com/msarnacki/digits-recognition-tkinter
